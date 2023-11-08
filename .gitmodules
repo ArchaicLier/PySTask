@@ -1,0 +1,3 @@
+[submodule "STask"]
+	path = STask
+	url = https://github.com/ArchaicLier/STask.git
